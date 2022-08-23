@@ -2,7 +2,7 @@
 
 ![QR Code](https://github.com/MyNatureOuting/My-Nature-Outing-Template/blob/main/qrcode.png)
 
-### https://bit.ly/3aSGowd<p>&nbsp;</p>
+### https://bit.ly/3AenrwQ<p>&nbsp;</p>
 
 [Google Slides Link](https://docs.google.com/presentation/d/17-xseBTZ6lGDoD4JkrUjGA5eqY411ym2Ccw9RIe0gt0/edit?usp=sharing)
 
