@@ -1,6 +1,6 @@
 # My Nature Outing Tool
 
-![QR Code](https://github.com/MyBatureOuting/my-nature-outing/blob/main/qr.png)
+![QR Code](https://github.com/MyNatureOuting/My-Nature-Outing-Template/blob/main/qrcode.png)
 
 ### https://bit.ly/3aSGowd<p>&nbsp;</p>
 
