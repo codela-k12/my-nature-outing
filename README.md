@@ -29,31 +29,27 @@ Learn more about our Nature Study project: [HERE](https://sjquigley.github.io/mu
 
 ## Get Started (Chromebook)
 
-1.	Open your Chromebook and Sign into your Gmail Account.
+1.	Go to repository [My Nature Outing repository:] (https://github.com/MyNatureOuting/my-nature-outing) Click the green "Code" button and select "Download ZIP."
 
-2.	Go to GitHub.com, then search for/open My Nature Outing 
+2.	Find and open the “my-nature-outing-main-zip” file in “Files/Downloads.”Then drag this folder into “MyFiles”  
 
-3.	Click the green "Code" button and select "Download ZIP."
- 
-4.	Find and open the “my-nature-outing-main-zip” file in “Files/Downloads.”Then drag this folder into “MyFiles”  
+3.	You will return to this folder to manage your scripts and other assets like images, pdfs, etcetera.
 
-5.	You will return to this folder to manage your scripts and other assets like images, pdfs, etcetera.
+4.	Next download [Code Pad Text Editor](https://chrome.google.com/webstore/detail/code-pad-text-editor/adaepfiocmagdimjecpifghcgfjlfmkh?hl=en-GB)
 
-6.	Next download [Code Pad Text Editor](https://chrome.google.com/webstore/detail/code-pad-text-editor/adaepfiocmagdimjecpifghcgfjlfmkh?hl=en-GB)
+5.	Use the **Code Pad Text Editor** to open the style.css and index.html documents from your project folder.
 
-7.	Use the **Code Pad Text Editor** to open the style.css and index.html documents from your project folder.
+6.	Start working with code by reading through the index.html where you'll find instructions on how to build your own web text!
 
-8.	Start working with code by reading through the index.html where you'll find instructions on how to build your own web text!
+7.	Once you have modified content and transferred your assets to your project file, you will want to publish to the web. GitHub provides a good solution for "free." Create a GitHub account, then create a new repository for this webtext. Click "uploading an existing file," (push) your files into this repository. You'll need ALL of your assets to make your webtext function properly. Upload assets, then hit "Commit changes."
 
-9.	Once you have modified content and transferred your assets to your project file, you will want to publish to the web. GitHub provides a good solution for "free." Create a GitHub account, then create a new repository for this webtext. Click "uploading an existing file," (push) your files into this repository. You'll need ALL of your assets to make your webtext function properly. Upload assets, then hit "Commit changes."
+8.	Now go to your repository "settings." Scroll down to "GitHub Pages" and change the setting from "none" to "main." Hit "Save"
 
-10.	Now go to your repository "settings." Scroll down to "GitHub Pages" and change the setting from "none" to "main." Hit "Save"
+9.	This will provide you with a published GitHub URL.
 
-11.	This will provide you with a published GitHub URL.
+10.	Test the URL in a browser. Magic, no? Actually, it's computer science.
 
-12.	Test the URL in a browser. Magic, no? Actually, it's computer science.
-
-13. [Share Out](https://docs.google.com/forms/d/e/1FAIpQLSdRW9k4l2kyjfKcyVplOtmLul2jltW6PDf1zhpcz7IS5Xur7w/viewform?usp=sf_link)<p>&nbsp;</p>
+11. [Share Out](https://docs.google.com/forms/d/e/1FAIpQLSdRW9k4l2kyjfKcyVplOtmLul2jltW6PDf1zhpcz7IS5Xur7w/viewform?usp=sf_link)<p>&nbsp;</p>
 
 
 
