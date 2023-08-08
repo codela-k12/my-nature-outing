@@ -29,15 +29,15 @@ Learn more about our Nature Study project: [HERE](https://sjquigley.github.io/mu
 
 ## Get Started (Chromebook)
 
-1.	Go to repository [My Nature Outing repository:] (https://github.com/MyNatureOuting/my-nature-outing) Click the green "Code" button and select "Download ZIP."
+1.	Go to repository [My Nature Outing repository:] (https://github.com/MyNatureOuting/my-nature-outing) 
 
-2.	Find and open the “my-nature-outing-main-zip” file in “Files/Downloads.”Then drag this folder into “MyFiles”  
+2. Click the green "Code" button and select "Download ZIP."
 
-3.	You will return to this folder to manage your scripts and other assets like images, pdfs, etcetera.
+3.	Find and open the “my-nature-outing-main-zip” file in “Files/Downloads” and drag this folder into “MyFiles”  
 
-4.	Next download [Code Pad Text Editor](https://chrome.google.com/webstore/detail/code-pad-text-editor/adaepfiocmagdimjecpifghcgfjlfmkh?hl=en-GB)
+4.	Name this project folder with your first name. You will return to this folder to manage your scripts and other assets like images, pdfs, etcetera.
 
-5.	Use the **Code Pad Text Editor** to open the style.css and index.html documents from your project folder.
+5.	Use **Code Pad Text Editor** to open the index.html document from your project folder. If needed, download Code Pad Text Editor [Code Pad Text Editor](https://chrome.google.com/webstore/detail/code-pad-text-editor/adaepfiocmagdimjecpifghcgfjlfmkh?hl=en-GB)
 
 6.	Start working with code by reading through the index.html where you'll find instructions on how to build your own web text!
 
@@ -81,7 +81,7 @@ Learn more about our Nature Study project: [HERE](https://sjquigley.github.io/mu
 
 3. Find this folder in your downloads. Move this folder to a secure place. You will return to this folder to manage your scripts and other assets like images, pdfs, etcetera. 
 
-4. Download and/or open a text editor like [atom.io](https://atom.io), or [notepad-plus-plus.org](https://notepad-plus-plus.org). 
+4. Download and/or open a text editor like [brackets.io](https://brackets.io) or [visualstudiocode](https://code.visualstudio.com/download)
 
 5. Use the text editor to open the style.css and index.html documents from your project folder.  
 
