@@ -25,116 +25,112 @@ We've adapted the holistic, nature-centered methods we witnessed in the field to
 Learn more about our Nature Study project: [HERE](https://sjquigley.github.io/mutimodal-nature-studies/)
 <p>&nbsp;</p>
 
-
-
-## Get Started (Chromebook)
-
-1.	Go to repository [My Nature Outing repository:] (https://github.com/MyNatureOuting/my-nature-outing) 
-
-2. Click the green "Code" button and select "Download ZIP."
-
-3.	Find and open the “my-nature-outing-main-zip” file in “Files/Downloads” and drag this folder into “MyFiles”  
-
-4.	Name this project folder with your first name. You will return to this folder to manage your scripts and other assets like images, pdfs, etcetera.
-
-5.	Use **Code Pad Text Editor** to open the index.html document from your project folder. If needed, download Code Pad Text Editor [Code Pad Text Editor](https://chrome.google.com/webstore/detail/code-pad-text-editor/adaepfiocmagdimjecpifghcgfjlfmkh?hl=en-GB)
-
-6.	Start working with code by reading through the index.html where you'll find instructions on how to build your own web text!
-
-7.	Once you have modified content and transferred your assets to your project file, you will want to publish to the web. GitHub provides a good solution for "free." Create a GitHub account, then create a new repository for this webtext. Click "uploading an existing file," (push) your files into this repository. You'll need ALL of your assets to make your webtext function properly. Upload assets, then hit "Commit changes."
-
-8.	Now go to your repository "settings." Scroll down to "GitHub Pages" and change the setting from "none" to "main." Hit "Save"
-
-9.	This will provide you with a published GitHub URL.
-
-10.	Test the URL in a browser. Magic, no? Actually, it's computer science.
-
-11. [Share Out](https://docs.google.com/forms/d/e/1FAIpQLSdRW9k4l2kyjfKcyVplOtmLul2jltW6PDf1zhpcz7IS5Xur7w/viewform?usp=sf_link)<p>&nbsp;</p>
+[Go to Codela](https://codela-k12.github.io/projects/) to find more code-based tools and projects for the English Language Arts classroom.<p>&nbsp;</p>
 
 
 
+    
+## Get started! 
+
+1. Scroll to the top of this repository and click the green "**Code**" button. Select "**Download ZIP**" to download project files to your local computer. These are all the project files you'll need to get started working with code.
+
+2. Find this project folder in your downloads and move it to a secure place on your local computer. You'll return to this project folder to manage your scripts, images, and other assets. 
+
+3. Download and/or open a code editor. We recommend [Phoenix Code](https://phcode.dev) which runs on a browser or [download](https://phcode.io/#/home) a desktop version. See more information on code editors below (including video tutorials!)  
+
+4. Use the code editor to open the index.html document. Read through the code comments embedded in the index.html document. Here, you'll find all the information you need to work with code!  
+
+5. Once you have modified content in your project folder, you can share  the folder with others. To view a project, simply open the index.html file in a browser window.    
 
 
-## More on Text Editors (Chromebook)
+## Publishing to GitHub (optional)
 
-1. Download [Code Pad Text Editor](https://chrome.google.com/webstore/detail/code-pad-text-editor/adaepfiocmagdimjecpifghcgfjlfmkh?hl=en-GB) from the Chrome Web Store. 
-1. From the dropdown menu, select **Editor>IDE Preferences**
-1. Toggle "**Word wrap limit**" to the middle value (this will force lines of code to conform to your viewer tab.)<p>&nbsp;</p>
+6. You can publish your project to the web using GitHub. GitHub provides a good solution for "free" publishing. [Go to GitHub](https://github.com), sign-in, or create a GitHub account.
 
+7. Once you have an account, create a "**new repository**" to store your files. Click  "**uploading an existing file**" and add ALL of your individual project assets to your repository. After each asset is uploaded, hit "**Commit changes**." 
 
+8. Now you'll need to activate GitHub pages to create a website. In the repository top menu, select "**settings**." A new page will open. In the left-hand menu, select "**Pages**." Change the source setting from "**none**" to "**main**" "**/root**" and then Click "**Save**."
 
-## Interview/discussion Recording (Chromebook)
+9. Refresh your page after several minutes. GitHub will provide you with a published GitHub URL.
 
-* Download [Hi-Q MP3 Recorder](https://play.google.com/store/apps/details?id=com.hiqrecorder.free&hl=en_US&gl=US) from the Chrome App Store
-* Set record to MP3
-* Partner-up and record your discussion about the importance of this Genius, Joy, and Love Seminar
-* When finished, click the share button.
-* Save the MP3 to your project file.<p>&nbsp;</p>
-
-
-
-## Get started! (Windows or Mac)
-
-1. Go to repository [My Nature Outing repository:] (https://github.com/MyNatureOuting/my-nature-outing)
-
-2. Click "Code" then "Download ZIP" to your local computer. 
-
-3. Find this folder in your downloads. Move this folder to a secure place. You will return to this folder to manage your scripts and other assets like images, pdfs, etcetera. 
-
-4. Download and/or open a text editor like [brackets.io](https://brackets.io) or [visualstudiocode](https://code.visualstudio.com/download)
-
-5. Use the text editor to open the style.css and index.html documents from your project folder.  
-
-6. Start working with code by reading through the index.html where you'll find instructions on how to build your own web text! 
-
-7. Once you have modified and added your files to your project file, you will want to publish to the web. GitHub provides a good solution for "free." Create a GitHub account, then create a new repository for this webtext. Click  "uploading an existing file," (push) your files into this repository. You'll need ALL of your assets to make your webtext function properly. Upload assets, then hit "Commit changes." 
-
-8. Now go to your repository "settings." Scroll down to "GitHub Pages" and change the setting from "none" to "main." Hit "Save"
-
-9. This will provide you with a published GitHub URL.
-
-10. Test the URL in a browser. Magic, no? Actually, it's computer science.  
-
-
-
-Check out our other cool coding tools [at Pitt Fuego](https://pitt-fuego.github.io/Pitt-Fuego-Coding-Tools/)<p>&nbsp;</p>
-
-## More on Text Editors! (Windows and Mac)
-
-Setting up **Atom** for Mac/Windows and **CodePad** for Chromebooks 
-
-
-### (Mac)
-
-
-1. Download "**Atom**" from [Atom.io](http://Atom.io)
-1. Add HTML Preview 
-	- from the dropdown menu, select **Atom>Preferences>Install**
-	- In the search bar type "**HTML Preview**." 
-	- Select the package built by "**HARMSK**." Click "**Install**."
-1. Adjust text wrapping 
-	 -	from the dropdown menu, select **View>Toggle Soft Wrap** (this will force lines of code to conform to your viewer tab.)
-
-### (Windows)
-
-1. Download "**Atom**" from [Atom.io](http://Atom.io)
-1. Add HTML Preview - from the dropdown menu, select **File>Settings.** In the tab that loads select **+Install** 
-1. In the search bar type "**HTML Preview**." 
-1. Select the package built by "**HARMSK**." Click "**Install**."
-1. Adjust text wrapping - from the dropdown menu, select **View>Toggle Soft Wrap** (this will force lines of code to conform to your viewer tab.)<p>&nbsp;</p>
-
-
-## iPad to Chromebook Help
-
-1.	Set photos to jpg. (highest quality) Select your best photos on iPad. Rename photos using camel case.  SimpleName.jpg
-
-2.	Use a .wav audio recorder like Handy Recorder on iPad for recording small nature segments. Transfer files into google drive cloud storage. On your Cromebook, move these files into your project folder. Again, use camelcase SimpleName.wav.
-
-3. Use an mp.4 recorder for longer recordings. Alternatively, you can record and edit podcasts using Beautiful Audio Editor on your Chromebook. 
-
-4.	Connect iPad to Chromebook.
-
-5.	In your Chromebook “Files,” find your iPad device, locate image assets and copy them into your project file.
-
-  
+10. Test the URL in a browser. Magic, no? Actually, it's computer science. <p>&nbsp;</p>  
  
+
+
+
+## Phoenix code editor 
+
+You have a range of code editor options depending on your operating system, but we recommend [Phoenix Code](https://phcode.dev) because it works across all operating systems, it comes with HTML preview already installed, and it's free and open-source.
+
+### Phoenix Code (Download or use Online)
+[See Video Tutorial](https://youtu.be/j8o506PZ1H8)
+
+1. Go to [Phoenix Code](https://phcode.dev). 
+1. Use the online version or [download](https://phcode.io/#/home) a desktop app for Mac, Windows, Linux. 
+1. Adjust text wrapping, select **View>Word Wrap**
+1. Enjoy the live preview. <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+
+
+
+## Support for other code editors
+
+
+### Pulsar (Open-Source for Mac / Windows / Linux)
+[See Video Tutorial](https://youtu.be/dKcJm4V53ig)
+
+1. Download "**[Pulsar](https://pulsar-edit.dev)**" Pulsar comes with "Spell Check" already installed. 
+1. Add HTML Preview 
+	* from the dropdown menu, select **Packages>Open Package Manager**
+	* select **+ Install**
+	* in the search bar type "**Atom-HTML-preview**." 
+	* select the package built by "**HARMSK**." Click "**Install**."
+1. Adjust text wrapping 
+	 -	from the dropdown menu, select **View>Toggle Soft Wrap** (this will force lines of code to conform to your view tab.)
+
+### Visual Studio Code (Mac / Windows /Linux)
+[See Video Tutorial](https://youtu.be/1onqFbSgeQo)
+
+1. Download "**[Visual Studio Code](https://code.visualstudio.com/download)**"
+1. Add HTML Preview 
+	* from the dropdown menu, select **View>Extension.**
+	* In the search bar type "**Live Preview**." Install.
+	* Right click on the index.html tab and select "**show preview**." You should see a live version of your work.
+1. Install Spell Check 
+	* from the dropdown menu, select **View>Extension.** 
+	* In the search bar type "**Code Spell Check**." Install.
+1. Adjust text wrapping on index.html 
+	* from the dropdown menu, select **View>Word Wrap** (this will force lines of code to conform to your viewer tab.)
+
+
+
+
+
+### Pulsar (Open-Source for Mac / Windows / Linux)
+[See Video Tutorial](https://youtu.be/dKcJm4V53ig)
+
+1. Download "**[Pulsar](https://pulsar-edit.dev)**" Pulsar comes with "Spell Check" already installed. 
+1. Add HTML Preview 
+	* from the dropdown menu, select **Packages>Open Package Manager**
+	* select **+ Install**
+	* in the search bar type "**Atom-HTML-preview**." 
+	* select the package built by "**HARMSK**." Click "**Install**."
+1. Adjust text wrapping 
+	 -	from the dropdown menu, select **View>Toggle Soft Wrap** (this will force lines of code to conform to your view tab.)
+
+### Visual Studio Code (Mac / Windows /Linux)
+[See Video Tutorial](https://youtu.be/1onqFbSgeQo)
+
+1. Download "**[Visual Studio Code](https://code.visualstudio.com/download)**"
+1. Add HTML Preview 
+	* from the dropdown menu, select **View>Extension.**
+	* In the search bar type "**Live Preview**." Install.
+	* Right click on the index.html tab and select "**show preview**." You should see a live version of your work.
+1. Install Spell Check 
+	* from the dropdown menu, select **View>Extension.** 
+	* In the search bar type "**Code Spell Check**." Install.
+1. Adjust text wrapping on index.html 
+	* from the dropdown menu, select **View>Word Wrap** (this will force lines of code to conform to your viewer tab.)
+
+
+
